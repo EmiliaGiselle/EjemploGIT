@@ -10,4 +10,3 @@ versiones de su aplicación, no se perderán los estados anteriores cuando se va
 Git, al ser un sistema de control, va ser la herramienta que nos va a permitir comparar el
 código de un archivo para ver las diferencias entre las versiones, restaurar versiones
 antiguas si algo sale mal, y fusionar los cambios de distintas versiones.
-Así pues, Github es un portal para gestionar proyectos usando el sistema Git.
