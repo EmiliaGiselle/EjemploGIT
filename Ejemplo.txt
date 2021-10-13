@@ -1,0 +1,13 @@
+GITHUB
+Github es un portal creado para alojar el código de las aplicaciones de cualquier
+desarrollador. La plataforma está creada para que los desarrolladores suban el código de
+sus aplicaciones y herramientas, y que como usuario no solo puedas descargarte la
+aplicación, sino también entrar a su perfil para leer sobre ella o colaborar con su desarrollo.
+Un sistema de gestión de versiones es ese con el que los desarrolladores pueden
+administrar su proyecto, ordenando el código de cada una de las nuevas versiones que
+sacan de sus aplicaciones para evitar confusiones. Así, al tener copias de cada una de las
+versiones de su aplicación, no se perderán los estados anteriores cuando se va a actualizar.
+Git, al ser un sistema de control, va ser la herramienta que nos va a permitir comparar el
+código de un archivo para ver las diferencias entre las versiones, restaurar versiones
+antiguas si algo sale mal, y fusionar los cambios de distintas versiones.
+Así pues, Github es un portal para gestionar proyectos usando el sistema Git.
